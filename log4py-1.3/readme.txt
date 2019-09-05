@@ -35,5 +35,6 @@ Martin 						<Martin.Preishuber@eclipt.at>
 3. 迁移中String对应函数，改为log4py.py中函数改调用str.xxx函数
 4. 迁移中环境变量字典dict.has_key改为 xx in dict.keys
 5. 在vscode中调试单元测试成功（屏蔽mysql相关测试）
+6. 
 
 
